@@ -1,4 +1,4 @@
-#git commands for beginners
+#git commands for beginners#
 
 git init for creating a new repository on our local machine.
 git remote for connecting our local repository to GitHub.
@@ -16,7 +16,7 @@ git commit -m 'Your commit message here!'
 git status
 git push -u origin main
 
-#About the project
+#About the project#
 
 This is a  little bash script for a simple test
 
@@ -24,6 +24,7 @@ first the test start with
 
 `code`
 ip addr
+`code`
 
 for the TCP/IP info  of the system
 
@@ -31,6 +32,7 @@ next a simple  hops test to Google DNS
 
 `code`
 traceroute 8.8.8.8
+`code`
 
 
 and finally te script show some system info
@@ -38,6 +40,6 @@ and finally te script show some system info
 `code`
 echo "this is your system: "
 fastfetch
-
+`code`
 
 
